@@ -1,0 +1,25 @@
+X<= long(ch)
+ch = zwebi ghaith.
+Number=0
+For i de 2 a long (ch)-1 faire
+Si ch[i] ="" alore
+Number = number +1
+Fin si
+Fin. Pour
+
+Nbvoyel=0
+For i de 1 a long (ch) faire
+Si ch[i] in (a,e,u,i,o)alore
+Nbvoyel = Nbvoyel +1
+Fin si
+Fin. Pour
+
+
+nbr = 0
+
+si ch[i] ="" alores
+repeter 
+nbr=nbr+1 
+jusqu'a ch[i] ="."
+fin si 
+
